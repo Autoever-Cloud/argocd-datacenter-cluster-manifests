@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: 'https://github.com/Autoever-Cloud/argocd-datacenter-cluster-manifests.git' 
     targetRevision: HEAD
-    path: overlays/prodcution
+    path: overlays/production
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: default
