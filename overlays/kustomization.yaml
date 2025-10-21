@@ -10,3 +10,4 @@ resources:
   - ../../base/prometheus
   - ../../base/service
   - ../../base/system
+  - ../../base/metallb
